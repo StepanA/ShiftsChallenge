@@ -1,6 +1,7 @@
 # ShiftsChallenge
 Second place ShiftsChallenge Weather track solution  
-Data, metrics and other information about challenge can be found here https://research.yandex.com/shifts/weather
+Data, metrics and other information about challenge can be found here https://research.yandex.com/shifts/weather  
+Solution description can be found here https://github.com/StepanA/ShiftsChallenge/blob/main/report/Shifts%20ChallengeWeather%20Prediction.pdf
 
 ## Reproduce the solution
 To reproduce the result, follow these steps:
